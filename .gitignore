@@ -1,0 +1,27 @@
+# Godot
+.godot/
+*.import.bak
+export_templates/
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+*.csproj
+*.sln
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# builds / misc
+*.exe
+*.pck
+*.zip
+*.log
+__pycache__/
+node_modules/
+.env
